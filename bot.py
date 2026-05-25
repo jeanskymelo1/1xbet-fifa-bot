@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = 8964906050:AAFdIOH0yQ1HC_xMUT8AcIfjcHJKZh5GTFM
+TOKEN = TOKEN = "8964906050:AAFdIOH0yQ1HC_xMUT8AcIfjcHJKZh5GTFM"
 	
 WELCOME = """
 ⚽ Bienvenue sur 1XBET FIFA BOT ⚽
